@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriela
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL, Power BI and Data in general
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL, Power BI and Python
 
 
 <!---
